@@ -1,5 +1,5 @@
 function Remove-TempFiles {
-    param (
+    param(
         [string]$Path
     )
 

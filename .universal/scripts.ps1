@@ -1,0 +1,2 @@
+New-PSUScript -Name "Invoke-FolderCleaner.ps1" -Description "A test clean file" -Path "folder-cleaner\Invoke-FolderCleaner.ps1"
+New-PSUScript -Name "Invoke-SystemBenchmark.ps1" -Description "A regular benchmark" -Path "system-benchmark\Invoke-SystemBenchmark.ps1"
